@@ -1,0 +1,6 @@
+[submodule "App/Clients/actor-sites-frontend-example"]
+	path = App/Clients/actor-sites-frontend-example
+	url = git@github.com:jaimex200/actor-sites-frontend-example.git
+[submodule "App/Server/actor-sites-api"]
+	path = App/Server/actor-sites-api
+	url = git@github.com:jaimex200/actor-sites-api.git
